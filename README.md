@@ -3,6 +3,8 @@
 # Project Overview:
 Welcome to my project on the furniture sales data analysis! This project explored the furniture sales data and answered significant business questions. The findings and recommendations from this analysis can help inform business decision and drive growth.
 
+![image alt](https://github.com/Madonna-22/Furniture-Sales-Data-Analysis/blob/52377ff6a5681713ae9f19431cc61f34c65a0d13/IMG-Dashboard.png)
+
 # Data Description:
 Data Source: The dataset used for this project was provided by Freedom oboh, as part of a guided project.
 
